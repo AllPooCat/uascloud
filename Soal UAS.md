@@ -13,5 +13,7 @@ Soal :
 10. Mengenai keamanan data dalam cloud computing, menurut Anda, apa langkah-langkah konkret yang dapat diambil untuk meningkatkannya? Bagaimana organisasi dapat memastikan bahwa data mereka tetap aman di lingkungan cloud?
 
 Buatlah jawaban dari soal diatas dengan cermat, kumpulkan dalam file NIM.pdf
+
 Push file jawaban ke github yang diberikan saat UAS dan
+
 Upload juda dalam e-learning yang telah disiapkan
