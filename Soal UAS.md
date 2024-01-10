@@ -16,4 +16,4 @@ Buatlah jawaban dari soal diatas dengan cermat, kumpulkan dalam file NIM.pdf
 
 Push file jawaban ke github yang diberikan saat UAS dan
 
-Upload juda dalam e-learning yang telah disiapkan
+Upload juga dalam e-learning yang telah disiapkan
